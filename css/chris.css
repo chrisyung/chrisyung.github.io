@@ -17,7 +17,7 @@ h2 {
 
 
 .hero {
-	background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
+	background-image: url('img/header.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
@@ -33,7 +33,7 @@ p {
 }
 
 .hero a {
-	color: #00FFAA;
+	color: #2471A3  ;
 	font-size: 24px;
 	text-decoration: none;
 }
