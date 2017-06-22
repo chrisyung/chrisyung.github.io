@@ -32,6 +32,10 @@ nav li {
 	padding: 0 20px
 }
 
+nav a {
+	text-decoration: none;
+}
+
 .resume-btn {
 	float:right
 	
