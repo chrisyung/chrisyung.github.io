@@ -38,11 +38,11 @@ nav a {
 }
 
 a:link, a:visited {
-	color: black;
+	color: #2471A3;
 }
 
 a:hover {
-	color: gray;
+	color: #2980B9;
 }
 
 .resume-btn {
