@@ -36,6 +36,14 @@ nav a {
 	text-decoration: none;
 }
 
+a:link, a:visited {
+	color: black;
+}
+
+a:hover {
+	color: gray;
+}
+
 .resume-btn {
 	float:right
 	
