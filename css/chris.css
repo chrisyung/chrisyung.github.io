@@ -23,12 +23,13 @@ h2 {
 }
 
 nav li {
-	text-align: right;
 	display: inline;
 	padding: 0 20px
 }
 
-
+/*.resume-btn {
+	float:right
+}*/
 
 .body {
 	background-image: url('../img/ocean.jpeg');
