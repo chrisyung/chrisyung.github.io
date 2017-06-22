@@ -34,13 +34,13 @@ nav li {
 .resume-btn a {
   margin-right: 30px;
   padding: 8px 18px;
-  border: 1px solid #204156;
+  border: 2px solid #204156;
 
 }
  
 .resume-btn a:active {
   position: relative;
-  bottom: 2px;
+  bottom: -2px;
 }
 
 
