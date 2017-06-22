@@ -9,7 +9,7 @@ body {
 h1 {
 	font-size: 32px;
 	text-align: left;
-	  margin-top: 30px;
+	margin-top: 30px;
 	display: inline;
 	padding: 0 40px
 }
@@ -25,6 +25,7 @@ h2 {
 
 nav {
 	display: flex;
+	padding-top: 30px;
 }
 
 nav li {
