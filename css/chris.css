@@ -30,8 +30,10 @@ nav li {
 
 .body {
 	background-image: url('../img/ocean.jpeg');
-	background-position: 0 0;
-	/*background-size: cover;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	padding: 250px 0;
 	margin: 0px;
 	text-shadow: 0 2px #000000;
