@@ -27,9 +27,22 @@ nav li {
 	padding: 0 20px
 }
 
-/*.resume-btn {
+.resume-btn {
 	float:right
-}*/
+}
+
+.resume-btn a {
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+
+}
+
+.resume-btn a:active {
+  position: relative;
+  bottom: 2px;
+}
+
 
 .body {
 	background-image: url('../img/ocean.jpeg');
