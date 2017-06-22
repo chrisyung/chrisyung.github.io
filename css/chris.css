@@ -8,7 +8,7 @@ body {
 
 h1 {
 	font-size: 32px;
-	text-align: left;
+	text-align: center;
 }
 
 h2 {
@@ -23,14 +23,17 @@ h2 {
 
 nav li {
 	display: inline;
+	padding: 0 20px
 }
+
+
 
 .body {
 	background-image: url('../img/ocean.jpeg');
-	background-position: top;
-	background-size: cover;
-	/*padding: 250px 0;*/
-	margin: 30px;
+	background-position: 0 0;
+	/*background-size: cover;*/
+	padding: 250px 0;
+	margin: 0px;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
