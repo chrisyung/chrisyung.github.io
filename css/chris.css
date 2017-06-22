@@ -18,7 +18,7 @@ h2 {
 
 .header {
 	color: #2471A3;
-	
+	display: inline;
 }
 
 nav li {
@@ -42,7 +42,7 @@ nav li {
 
 p {
 	color: #ffffff;
-	font-size: 1em;
+	font-size: 1.5em;
 }
 
 .body a {
