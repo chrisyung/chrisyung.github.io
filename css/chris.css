@@ -42,12 +42,12 @@ a:link, a:visited {
 }
 
 a:hover {
-	color: #2980B9;
+	color: #5499C7;
 }
 
 .resume-btn {
 	float:right
-	
+	color: #FFFFFF
 }
 
 .resume-btn a {
