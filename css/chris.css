@@ -91,19 +91,19 @@ p {
 	font-size: 16px;
 }
 
-#resume {
+.resume {
   border: 2px solid #2471A3;
   content: white;
   padding: 8px 18px;
   text-shadow: 0 0px #000000;
 }
 
-#resume a:active {
+.resume a:active {
 	position: relative;
 	bottom: -2px;
 }
 
-#resume a:hover {
+.resume a:hover {
 	color: #7FB3D5;
 	border: 2px solid #7FB3D5;
 }
