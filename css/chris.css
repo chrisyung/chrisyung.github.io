@@ -29,7 +29,7 @@ nav {
 	
 	
 }
-}
+
 
 nav li {
 	display: inline;
@@ -38,7 +38,6 @@ nav li {
 
 nav a {
 	text-decoration: none;
-	display: block;
 }
 
 a:link, a:visited {
