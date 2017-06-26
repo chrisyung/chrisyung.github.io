@@ -1,4 +1,8 @@
 body {
+	background-image: url('../img/ocean.jpeg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
