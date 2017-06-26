@@ -67,7 +67,7 @@ a:hover {
 	background-image: url('../img/ocean.jpeg');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
-	background-size: contain;
+	background-size: cover;
 	padding: 250px 0;
 	margin: 0px;
 	text-shadow: 0 2px #000000;
@@ -88,14 +88,16 @@ p {
 
 .resume a {
 	padding: 8px 18px;
-	/*border: 2px solid #2471A3;
-*/
+	border: 2px solid #2471A3;
+
 }
  
 .resume a:active {
 	position: relative;
 	bottom: -2px;
 }		
+
+
 
 .resume a:hover {
 	color: #7FB3D5;
