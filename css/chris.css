@@ -101,7 +101,7 @@ p {
 
 .resume a:hover {
 	color: #7FB3D5;
-	/*border: 2px solid #7FB3D5;*/
+	border: 2px solid #7FB3D5;
 }
 
 .body a {
