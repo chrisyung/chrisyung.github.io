@@ -11,7 +11,7 @@ h1 {
 	text-align: left;
 	margin-top: 30px;
 	display: inline;
-	padding: 0 40px
+	padding: 0 40px;
 }
 
 h2 {
@@ -30,7 +30,7 @@ nav {
 
 nav li {
 	display: inline;
-	padding: 0 20px
+	padding: 0 20px;
 }
 
 nav a {
@@ -46,8 +46,8 @@ a:hover {
 }
 
 .contact-btn {
-	float:right
-	color: #FFFFFF
+	float:right;
+	color: #FFFFFF;
 }
 
 .contact-btn a {
@@ -93,6 +93,7 @@ p {
 
 #resume {
   border: 2px solid #2471A3;
+  content: white;
   padding: 8px 18px;
   text-shadow: 0 0px #000000;
 }
