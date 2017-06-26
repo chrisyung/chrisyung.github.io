@@ -26,6 +26,11 @@ h2 {
 nav {
 	display: inline;
 	padding-top: 30px;
+	
+	height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
 }
 
 nav li {
@@ -35,6 +40,7 @@ nav li {
 
 nav a {
 	text-decoration: none;
+	display: block;
 }
 
 a:link, a:visited {
