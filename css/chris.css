@@ -74,14 +74,14 @@ a:link, a:visited {
 
 a:hover {
 	/*color: #7FB3D5;*/
-	background-color: #111
+	background-color:  #ABB2B9;
 }
 
 .contact-btn {
 	float:right;
 	color: #FFFFFF;
-	/*padding-top: 20px;
-	padding-bottom: 20px;*/
+	padding-top: 3px;
+	padding-right: 3px;
 }
 
 .contact-btn a {
