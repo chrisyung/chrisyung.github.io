@@ -30,16 +30,17 @@ h2 {
 nav {
 	color: white; 
 	display: inline;
-	padding-top: 30px;
+	padding-right: 30px;
 }
 
 nav ul {
 	position: fixed;
     top: 0;
     width: 100%;
-	padding-right: 20px;
+	
 	list-style-type: none;
-    overflow: hidden;
+    /*overflow: hidden;
+	padding-right: 20px;*/
     background-color: white;
 }
 
