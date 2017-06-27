@@ -79,16 +79,11 @@ a:active {
 }
 
 .contact-btn a {
-	margin-right: 35px;
 	padding: 14px 20px;
 }
 
 
 .body {
-	background-image: url('../img/ocean.jpeg');
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
 	padding: 250px 0;
 	margin: 0px;
 	text-shadow: 0 2px #000000;
