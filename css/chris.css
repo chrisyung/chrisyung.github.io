@@ -24,7 +24,7 @@ h2 {
 }
 
 .navbar {
-	color: #2471A3;
+	color: white;
 }
 
 nav {
@@ -86,7 +86,7 @@ a:hover {
 
 .contact-btn a {
 	margin-right: 35px;
-	padding: 8px 18px;
+	padding: 14px 20px;
 	border: 2px solid #2471A3;
 
 }
@@ -130,7 +130,7 @@ p {
 
 .resume a {
 	padding: 8px 18px;
-	border: 2px solid #2471A3;
+	border: 4px solid #2471A3;
 	background-color: white;
 }
  
