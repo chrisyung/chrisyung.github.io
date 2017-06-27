@@ -78,15 +78,12 @@ a:hover {
 }
 
 .contact-btn {
-	float:right;
 	color: #FFFFFF;
 }
 
 .contact-btn a {
 	margin-right: 35px;
 	padding: 14px 20px;
-	border: 2px solid #2471A3;
-
 }
  
 .contact-btn a:active {
