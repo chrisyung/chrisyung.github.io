@@ -52,7 +52,7 @@ nav li {
 	display: inline;
 	padding: 0px;
 	
-	float: left;
+	float: right;
 	color: white;
 }
 
@@ -80,6 +80,7 @@ a:hover {
 .contact-btn {
 	float:right;
 	color: #FFFFFF;
+	padding: 20px;
 }
 
 .contact-btn a {
