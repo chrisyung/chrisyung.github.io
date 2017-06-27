@@ -31,17 +31,14 @@ nav {
 	color: white; 
 	display: inline;
 	padding-top: 30px;
-	
-	/*position: fixed;
-    top: 0;
-    width: 100%*/                                                     
+	                                                 
 }
 
 nav ul {
 	color: #FFFFFF;
-	position: fixed;
+	/*position: fixed;
     top: 0;
-    width: 100%
+    width: 100%;*/
 }
 
 nav li {
@@ -49,6 +46,7 @@ nav li {
 	padding: 0 25px;
 	
 	float: left;
+	color: white;
 }
 
 nav a {
