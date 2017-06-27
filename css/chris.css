@@ -31,12 +31,9 @@ nav {
 	color: white; 
 	display: inline;
 	padding-top: 30px;
-	                                                 
 }
 
 nav ul {
-	/*color: #FFFFFF;*/
-	
 	position: fixed;
     top: 0;
     width: 100%;
@@ -52,15 +49,11 @@ nav li {
 	display: inline;
 	padding: 0px;
 	
-	float: left;
+	float: right;
 	color: white;
 }
 
 nav li a {
-	/*display: block;
-	text-decoration: none;
-	padding: 20px;*/
-	
 	display: block;
     color: white;
     text-align: center;
@@ -73,9 +66,13 @@ a:link, a:visited {
 }
 
 a:hover {
-	/*color: #7FB3D5;*/
 	background-color:  #ABB2B9;
 }
+
+a:active {
+	position: relative;
+	bottom: -2px;
+}		
 
 .contact-btn {
 	color: #FFFFFF;
@@ -85,11 +82,6 @@ a:hover {
 	margin-right: 35px;
 	padding: 14px 20px;
 }
- 
-.contact-btn a:active {
-	position: relative;
-	bottom: -2px;
-}		
 
 
 .body {
@@ -135,9 +127,7 @@ p {
 }		
 
 .resume a:hover {
-	color: #7FB3D5;
-	border: 2px solid #7FB3D5;
-	background-color: white;
+	background-color:  #ABB2B9;
 }
 
 #footer {
