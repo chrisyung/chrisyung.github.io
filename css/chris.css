@@ -23,7 +23,7 @@ h2 {
 	font-size: 56px; 
 }
 
-.sidebar {
+.navbar {
 	color: #2471A3;
 }
 
@@ -42,7 +42,7 @@ nav ul {
 	
 	list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 5;
     overflow: hidden;
     background-color: #333;
 }
