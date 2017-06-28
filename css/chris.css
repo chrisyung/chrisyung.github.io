@@ -100,6 +100,7 @@ a:active {
 p {
 	color: #ffffff; 
 	font-size: 1.5em; 
+	margin: 50px;
 }
 
 .body a {
@@ -117,6 +118,7 @@ p {
 }
 
 .resume a {
+	margin: 50px;
 	padding: 8px 18px;
 	border: 3px solid #2471A3;
 	background-color: white;
@@ -135,7 +137,3 @@ p {
 	color: DarkSlateGray;
 	font-size: 16px;
 }
-
-/* MORE */
-#more {
-	
