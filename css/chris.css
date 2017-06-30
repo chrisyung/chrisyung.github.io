@@ -111,10 +111,10 @@ p {
 
 
 .resume {
-	content: #FFFFFF;
-	color: #FFFFFF;
 	text-shadow: 0 0px #000000;
 	
+	position: relative;
+    display: inline-block;
 }
 
 .resume a {
@@ -178,11 +178,11 @@ p {
 .dropdown-content a:hover {background-color: #f1f1f1}
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
+.resume:hover .dropdown-content {
     display: block;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
+.resume:hover .dropbtn {
     background-color: #3e8e41;
 }
