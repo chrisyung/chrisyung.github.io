@@ -128,6 +128,14 @@ body {
 	text-decoration: none;
 }
 
+/*content*/
+
+content {
+	text-shadow: 0 2px #000000;
+	
+	
+}
+
 /*headings*/
 
 h1 { /*title of page*/ 
