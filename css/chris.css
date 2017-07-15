@@ -1,28 +1,6 @@
-body {
-	background-image: url("http://i.imgur.com/VMzJUS0.jpg");
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	font-family: Georgia, serif;
-	height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100%;
-}
 
-h1 {
-	font-size: 32px;
-	text-align: left;
-	margin-top: 30px;
-	display: inline;
-	padding: 0 40px;
-}
 
-h2 {
-	color: #ffffff;
-	font-size: 56px; 
-}
-
+	/*navbar*/
 
 .navbar {
 	color: white;
@@ -89,26 +67,7 @@ a:active {
 	
 }
 
-.body {
-	padding: 200px 0;
-	margin: 0px;
-	text-shadow: 0 2px #000000;
-	font-family: 'Trebuchet MS', 'Helvetica';
-}
-
-
-p {
-	color: #ffffff; 
-	font-size: 1.5em; 
-	margin: 50px;
-}
-
-.body a {
-	color: #2471A3;	
-	font-size: 24px;
-	text-decoration: none;
-}
-
+	/*resume button*/ 
 
 .resume {
 	text-shadow: 0 0px #000000;
@@ -133,13 +92,96 @@ p {
 	background-color:  #ABB2B9;
 }
 
+	/*footer*/ 
+
 #footer {
 	color: DarkSlateGray;
 	font-size: 16px;
 }
 
+	/*content*/ 
+
+/*body*/
+body {
+	background-image: url("http://i.imgur.com/VMzJUS0.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.body {
+	padding: 200px 0;
+	margin: 0px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
+.body a {
+	color: #2471A3;	
+	font-size: 24px;
+	text-decoration: none;
+}
+
+/*headings*/
+
+h1 { /*title of page*/ 
+	color: #ffffff;
+	font-size: 56px; 
+}
+
+h2 { /*title of content*/ 
+
+}
+	
+h3 { /*subheading of content*/
+
+}
+
+/*paragraph elements*/ 
+
+p {
+	color: #ffffff; 
+	font-size: 1.5em; 
+	margin: 50px;
+}
+
+#description { 
+	color: #ffffff; 
+	font-size: 1.5em; 
+	margin: 50px;
+}
+
+/*activities*/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*extra stuff*/
 /* Dropdown Button */
 .dropbtn {
     background-color: #4CAF50;
