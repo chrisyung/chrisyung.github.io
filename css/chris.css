@@ -131,7 +131,7 @@ body {
 /*content*/
 
 .content {
-	text-shadow: 0 1px #000000;
+
 	
 	
 }
@@ -157,6 +157,11 @@ p {
 	color: #ffffff; 
 	font-size: 1.5em; 
 	margin: 50px;
+	
+	text-shadow: 0 1px #000000;
+	text-shadow: 0 -1px #000000;
+	text-shadow: 1 0px #000000;
+	text-shadow: -1 0px #000000;
 }
 
 #description { 
