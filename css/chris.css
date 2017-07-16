@@ -154,14 +154,11 @@ h3 { /*subheading of content*/
 /*paragraph elements*/ 
 
 p {
-	color: #ffffff; 
+	color: #2471A3; 
 	font-size: 1.5em; 
 	margin: 50px;
 	
 	text-shadow: 0 1px #000000;
-	text-shadow: 0 -1px #000000;
-	text-shadow: 1 0px #000000;
-	text-shadow: -1 0px #000000;
 }
 
 #description { 
