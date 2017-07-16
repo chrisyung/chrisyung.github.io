@@ -145,7 +145,7 @@ h1 { /*title of page*/
 
 h2 { /*title of content*/ 
 	font-size: 2em;
-	margin-bottom: 5;
+	margin-bottom: 5px;
 }
 	
 h3 { /*subheading of content*/
@@ -169,7 +169,8 @@ p {
 /*activities*/
 .clubs {
 	background-color: #2471A3; 
-	padding-bottom: 20px;
+	
+	/*padding-bottom: 20px;*/
 }
 
 .R-Cade {
