@@ -178,21 +178,25 @@ p {
 .R-Cade {
 	width:25%;
 	float:left;
+	background-color:red;
 }
 
 .iPad {
 	width:25%;
 	float:left;
+	background-color:orange;
 }
 
 .Knights {
 	width:25%;
 	float:left;
+	background-color:yellow;
 }
 
 .NHS {
 	width:25%;
 	float:left;
+	background-color:green;
 }
 
 
