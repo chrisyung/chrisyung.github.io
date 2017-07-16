@@ -148,7 +148,7 @@ h2 { /*title of content*/
 }
 	
 h3 { /*subheading of content*/
-
+	font-size: 2em; 
 }
 
 /*paragraph elements*/ 
@@ -157,8 +157,6 @@ p {
 	color: #2471A3; 
 	font-size: 1.5em; 
 	margin: 50px;
-	
-	text-shadow: 0 1px #000000;
 }
 
 #description { 
