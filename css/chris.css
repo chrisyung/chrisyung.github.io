@@ -146,7 +146,7 @@ h1 { /*title of page*/
 h2 { /*title of content*/ 
 	font-size: 2em;
 	margin: 0px; 
-	padding-top: 5px;
+	padding-top: 10px;
 }
 	
 h3 { /*subheading of content*/
@@ -173,6 +173,7 @@ p {
 }
 
 .R-Cade {
+	padding-left: 50px; 
 	width:25%;
 	float:left;
 	background-color:white;
@@ -192,6 +193,7 @@ p {
 }
 
 .NHS {
+	padding-right: 50px;
 	width:25%;
 	float:left;
 	background-color:white;
