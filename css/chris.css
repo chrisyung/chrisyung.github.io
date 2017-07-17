@@ -101,6 +101,7 @@ a:active {
 
 	/*content*/ 
 
+
 /*body*/
 body {
 	background-image: url("http://i.imgur.com/VMzJUS0.jpg");
@@ -169,32 +170,37 @@ p {
 
 /*activities*/
 .clubs {
+	width: 50%;
+	float: left;
 	background-color: white; 
 }
 
 .R-Cade {
-	width:25%;
-	float:left;
+	width:50%;
+	float:right;
 	background-color:white;
-	
+	padding-right: 100px;
 }
 
 .iPad {
-	width:25%;
-	float:left;
+	width:50%;
+	float:right;
 	background-color:white;
+	padding-right: 100px;
 }
 
 .Knights {
-	width:25%;
-	float:left;
+	width:50%;
+	float:right;
 	background-color:white;
+	padding-right: 100px;
 }
 
 .NHS {
-	width:25%;
-	float:left;
+	width:50%;
+	float:right;
 	background-color:white;
+	padding-right: 100px;
 }
 
 
