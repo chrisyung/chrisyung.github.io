@@ -145,6 +145,7 @@ h1 { /*title of page*/
 
 h2 { /*title of content*/ 
 	font-size: 2em;
+	margin: 0px; 
 }
 	
 h3 { /*subheading of content*/
