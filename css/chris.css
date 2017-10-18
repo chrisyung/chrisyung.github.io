@@ -1,6 +1,6 @@
 
 
-	/*navbar*/
+  /*navbar*/
 
 .navbar {
 	color: white;
@@ -104,11 +104,12 @@ a:active {
 
 /*body*/
 body {
-	background-image: url("/img/Hawaii3.JPG");
+	/*background-image: url("/img/Hawaii3.JPG");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	background-attachment:fixed;
+	background-attachment:fixed;*/
+  background-color:navy;
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
@@ -134,8 +135,6 @@ body {
 
 .content {
 
-	
-	
 }
 
 /*headings*/
@@ -171,9 +170,10 @@ p {
 
 /*activities*/
 .ClubContent {
-	width: 100%;
+	width: 75%;
 	background-color: white; 
 	text-align: center;
+  display: inline-block;
 }
 
 .clubs {
@@ -181,32 +181,84 @@ p {
 	background-color: white; 
 	text-align: center;
 }
-/*
+
 .R-Cade {
-	width:50%;
+	width:100%;
 	background-color:white;
 	text-align: center;
 }
+.R-Cadeimg {
+  width:50%;
+	background-color:white;
+	text-align: center;
+}
+.R-Cadecontent {
+  width:70%;
+  background-color:white;
+	text-align: center;
+  float: right;
+}
+
 
 .iPad {
-	width:50%;
+	width:100%;
 	background-color:white;
 	text-align: center;
 }
+.iPadimg {
+  width:50%;
+	background-color:white;
+	text-align: center;
+}
+.iPadcontent {
+  width:70%;
+	background-color:white;
+	text-align: center;
+  float: right;
+}
+
 
 .Knights {
-	width:50%;
+	width:100%;
 	background-color:white;
 	text-align: center;
 }
+.Knightsimg {
+  width:50%;
+	background-color:white;
+	text-align: center;
+}
+.Knightscontent {
+  width:70%;
+	background-color:white;
+	text-align: center;
+  float: right;
+}
+
 
 .NHS {
-	width:50%;
+  width:100%;
 	background-color:white;
 	text-align: center;
 }
+.NHScontent {
+	width:70%;
+	background-color:white;
+	text-align: center;
+  float: right;
+}
+.NHSimg {
+  width:30%;
+	background-color:white;
+	text-align: center;
+  float: left;
+  
+  width:30%;
+  height:auto;
+}
 
-*/
+
+
 
 
 
