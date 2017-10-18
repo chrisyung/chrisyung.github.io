@@ -172,29 +172,32 @@ p {
 .clubs {
 	width: 100%;
 	background-color: white; 
+	text-align: center;
 }
 
 .R-Cade {
 	width:50%;
 	background-color:white;
+	text-align: center;
 }
 
 .iPad {
 	width:50%;
 	background-color:white;
+	text-align: center;
 }
 
 .Knights {
 	width:50%;
 	background-color:white;
+	text-align: center;
 }
 
 .NHS {
 	width:50%;
 	background-color:white;
+	text-align: center;
 }
-
-
 
 
 
