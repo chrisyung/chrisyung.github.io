@@ -173,13 +173,16 @@ p {
 	width: 100%;
 	background-color: white; 
 	text-align: center;
+	padding-left: 10vw;
+	padding-right:10vw;
 }
-/*.clubs {
+
+.clubs {
 	width: 100%;
 	background-color: white; 
 	text-align: center;
 }
-
+/*
 .R-Cade {
 	width:50%;
 	background-color:white;
