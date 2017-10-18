@@ -171,31 +171,26 @@ p {
 /*activities*/
 .clubs {
 	width: 100%;
-	float: left;
 	background-color: white; 
 }
 
 .R-Cade {
 	width:50%;
-	float:right;
 	background-color:white;
 }
 
 .iPad {
 	width:50%;
-	float:right;
 	background-color:white;
 }
 
 .Knights {
 	width:50%;
-	float:right;
 	background-color:white;
 }
 
 .NHS {
 	width:50%;
-	float:right;
 	background-color:white;
 }
 
