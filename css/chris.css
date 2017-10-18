@@ -114,6 +114,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	image-orientation: from-image;
 }
 
 .body {
