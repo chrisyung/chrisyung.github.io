@@ -169,7 +169,12 @@ p {
 }
 
 /*activities*/
-.clubs {
+.ClubContent {
+	width: 100%;
+	background-color: white; 
+	text-align: center;
+}
+/*.clubs {
 	width: 100%;
 	background-color: white; 
 	text-align: center;
@@ -199,7 +204,7 @@ p {
 	text-align: center;
 }
 
-
+*/
 
 
 
