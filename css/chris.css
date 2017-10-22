@@ -109,6 +109,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	background-attachment:fixed;
+	background-position: center center;
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
@@ -172,7 +173,7 @@ p {
 	width: 75%;
 	background-color: white; 
 	text-align: center;
-  display: inline-block;
+	display: inline-block;
 }
 
 .clubs {
@@ -187,10 +188,10 @@ p {
 	text-align: center;
 }
 .R-Cadecontent {
-  width:70%;
+  width:90%;
   background-color:white;
 	text-align: center;
-  float: right;
+	display: inline; 
 }
 /*.R-Cadeimg {
   width:50%;
@@ -205,10 +206,10 @@ p {
 	text-align: center;
 }
 .iPadcontent {
-  width:70%;
+  width:90%;
 	background-color:white;
 	text-align: center;
-  float: right;
+	display: inline; 
 }
 /*.iPadimg {
   width:50%;
@@ -223,10 +224,10 @@ p {
 	text-align: center;
 }
 .Knightscontent {
-  width:70%;
+  width:90%;
 	background-color:white;
 	text-align: center;
-  float: right;
+	display: inline; 
 }
 /*.Knightsimg {
   width:50%;
@@ -241,10 +242,10 @@ p {
 	text-align: center;
 }
 .NHScontent {
-	width:70%;
+	width:90%;
 	background-color:white;
 	text-align: center;
-  float: right;
+	display: inline; 
 }
 /*.NHSimg {
   width:30%;
