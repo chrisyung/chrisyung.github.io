@@ -104,7 +104,7 @@ a:active {
 
 /*body*/
 body {
-	background-image: url("/img/Hawaii3.JPG");
+	background-image: url("/img/ClassRing.JPG");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -186,26 +186,21 @@ p {
 	background-color:white;
 	text-align: center;
 }
-.R-Cadeimg {
-  width:50%;
-	background-color:white;
-	text-align: center;
-}
 .R-Cadecontent {
   width:70%;
   background-color:white;
 	text-align: center;
   float: right;
 }
+/*.R-Cadeimg {
+  width:50%;
+	background-color:white;
+	text-align: center;
+}*/
 
 
 .iPad {
 	width:100%;
-	background-color:white;
-	text-align: center;
-}
-.iPadimg {
-  width:50%;
 	background-color:white;
 	text-align: center;
 }
@@ -215,15 +210,15 @@ p {
 	text-align: center;
   float: right;
 }
+/*.iPadimg {
+  width:50%;
+	background-color:white;
+	text-align: center;
+}*/
 
 
 .Knights {
 	width:100%;
-	background-color:white;
-	text-align: center;
-}
-.Knightsimg {
-  width:50%;
 	background-color:white;
 	text-align: center;
 }
@@ -233,6 +228,11 @@ p {
 	text-align: center;
   float: right;
 }
+/*.Knightsimg {
+  width:50%;
+	background-color:white;
+	text-align: center;
+}*/
 
 
 .NHS {
@@ -246,7 +246,7 @@ p {
 	text-align: center;
   float: right;
 }
-.NHSimg {
+/*.NHSimg {
   width:30%;
 	background-color:white;
 	text-align: center;
@@ -254,7 +254,7 @@ p {
   
   width:30%;
   height:auto;
-}
+}*/
 
 
 
