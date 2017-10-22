@@ -169,6 +169,14 @@ p {
 }
 
 /*activities*/
+.extracurricular {
+	width: 100%;
+	background-color: #6198CF; 
+	text-align: center;
+	display: inline-block;
+}
+
+
 .ClubContent {
 	width: 60%;
 	background-color: white; 
