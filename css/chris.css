@@ -1,4 +1,4 @@
-
+/* color: #2471A3 */
 
   /*navbar*/
 
@@ -104,11 +104,12 @@ a:active {
 
 /*body*/
 body {
-	background-image: url("../img/beach.JPG");
+	background-image: url("../img/jpn2.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	background-attachment:fixed;
+  background-attachment: scroll;
+	/* background-attachment:fixed; */
 	background-position: center center;
 	font-family: Verdana, serif;
 	height: 100%;
@@ -127,7 +128,7 @@ body {
 
 .body a {
 	color: #2471A3;	
-	font-size: 1.25em;
+	font-size: 20px;
 	text-decoration: none;
 }
 
@@ -140,72 +141,61 @@ body {
 /*headings*/
 
 h1 { /*title of page*/ 
-	color: #ffffff;
+	color: white;
 	font-size: 56px; 
+  text-shadow: 0 1px #000000;
 }
 
 h2 { /*title of content*/ 
-	font-size: 2em;
+  color: white;
+	font-size: 2.5em;
 	margin: 0px; 
 	padding-top: 10px;
+  text-shadow: 0 1px #000000;
 }
 	
 h3 { /*subheading of content*/
-	font-size: 1.5em; 
+  color: white;
+	font-size: 1.8em; 
+  text-shadow: 0 1px #000000;
 }
 
 /*paragraph elements*/ 
 
 p {
-	color: #2471A3; 
-	font-size: 1.25em; 
+	color: #ffffff; 
+	font-size: 20px; 
 	margin: 25px;
+  text-shadow: 0 1px #000000;
 }
 
 #description { 
 	color: #ffffff; 
-	font-size: 1.5em; 
-	margin: 50px;
+	font-size: 25px; 
 }
 
 /*activities*/
 .extracurricular { /*extracurricular*/
 	width: 100%;
-	background-color: #62A3CD; 
 	text-align: center;
 	display: inline-block;
 }
 .extracurricularContent {
-	width: 60%;
+	width: 70%;
 	display: inline-block;
-}
-#xtracontent {
-	color: #2471A3;
 }
 
 .clubs { /*clubs*/
 	width: 100%;
-	background-color: white; 
 	text-align: center;
+  padding-top: 40px;
 }
 .ClubContent {
 	width: 60%;
-	background-color: white; 
 	text-align: center;
 	display: inline-block;
 }
 
-.R-Cade {
-	width:100%;
-	background-color:white;
-	text-align: center;
-}
-.R-Cadecontent {
-	width:90%;
-	background-color:white;
-	text-align: center;
-	display: inline; 
-}
 /*.R-Cadeimg {
 	width:50%;
 	background-color:white;
@@ -213,17 +203,6 @@ p {
 }*/
 
 
-.iPad {
-	width:100%;
-	background-color:white;
-	text-align: center;
-}
-.iPadcontent {
-	width:90%;
-	background-color:white;
-	text-align: center;
-	display: inline; 
-}
 /*.iPadimg {
 	width:50%;
 	background-color:white;
@@ -231,17 +210,6 @@ p {
 }*/
 
 
-.Knights {
-	width:100%;
-	background-color:white;
-	text-align: center;
-}
-.Knightscontent {
-	width:90%;
-	background-color:white;
-	text-align: center;
-	display: inline; 
-}
 /*.Knightsimg {
 	width:50%;
 	background-color:white;
@@ -249,17 +217,6 @@ p {
 }*/
 
 
-.NHS {
-	width:100%;
-	background-color:white;
-	text-align: center;
-}
-.NHScontent {
-	width:90%;
-	background-color:white;
-	text-align: center;
-	display: inline; 
-}
 /*.NHSimg {
 	width:30%;
 	background-color:white;
@@ -271,7 +228,6 @@ p {
 }*/
 
 .Internships { /*internships*/
-	background-color: #62A3CD;
 	padding-bottom: 10px;
 }
 
