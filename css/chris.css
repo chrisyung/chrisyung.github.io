@@ -37,7 +37,7 @@ nav li a {
 	display: block;
     color: white;
     text-align: center;
-    padding: 10px 1.5vw;
+    padding: 10px 1.5px;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ a:active {
 }		
 
 .socials a {
-  font-size: 3vmin;
+  font-size: 3vmin;
 }
 
 #home {
@@ -110,7 +110,7 @@ body {
 }
 
 .body {
-  background-image: url("../img/jpn3.JPG");
+  background-image: url("../img/spirited_away.jpg");
   -webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -131,12 +131,25 @@ body {
 	text-decoration: none;
 }
 
+.title {
+	background-image: url("../img/spirited_away.jpg");
+	background-size: cover;
+	background-attachment: scroll;
+	/* background-attachment:fixed; */
+	background-position: center center;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	text-shadow: 0 1px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
 /*headings*/
 
 h1 { /*title of page*/ 
 	color: white;
 	font-size: 56px; 
-  text-shadow: 0 1px #000000;
+	text-shadow: 0 1px #000000;
 }
 
 h2 { /*title of content*/ 
@@ -167,6 +180,7 @@ p {
 	font-size: 25px; 
   margin-bottom: 50px;
 }
+
 
 /*activities*/
 .extracurricular { /*extracurricular*/
