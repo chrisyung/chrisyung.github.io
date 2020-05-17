@@ -60,6 +60,16 @@ h1 {
 	}
 }
 
+@media screen and (max-width: 460px) {
+	h1 {
+		font-size: 30px;
+	}
+	
+	.title a {
+		font-size: 20px;
+	}
+}
+
 /* links */
 a:link, a:visited {
 	color: white;
