@@ -43,16 +43,18 @@ body {
 }
 
 .side {
-	flex: 25%;
+	flex: 20%;
 	padding: 20px;
 	
 	background-color: #bbb;
 }
 
 .main {
-	flex: 65%;
+	flex: 50%;
 	padding: 20px;
 	height: 100%;
+	
+	
 }
 
 /*.main:after {
@@ -60,6 +62,10 @@ body {
 	display: table;
 	clear: both;
 }*/
+
+.container {
+	text-align: left;
+}
 
 .box {
 	width: 25%;
@@ -69,8 +75,17 @@ body {
 	box-sizing: border-box;
 }
 
+.experience_box {
+	width: 50%;
+	height: 100%;
+	padding: 20px;
+	float: left;
+	box-sizing: border-box;
+}
+
 .picture_container {
 	text-align: center;
+	margin-bottom: 20px;
 }
 
 .picture_container img {
@@ -93,6 +108,11 @@ body {
 
 #box_4 {
 	background-color: #ddd;
+}
+
+#box_100 {
+	background-color: #aaa;
+	width: 100%;
 }
 
 .box:hover {
@@ -173,11 +193,20 @@ h3 {
 
 h4 {
 	margin: 0px;
+	margin-bottom: 20px;
 	line-height: 0;
 }
 
 p {
 	margin: 0px;
+}
+
+#title_link {
+	font-size: 18px;
+	margin: 0;
+	#margin-bottom: 20px;
+	
+	color: black;
 }
 
 /* links */
