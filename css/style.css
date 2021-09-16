@@ -210,7 +210,15 @@ p {
 }
 
 /* links */
-a:link, a:visited {
+.contact a {
+	color: white;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
 	color: white;
 }
 
